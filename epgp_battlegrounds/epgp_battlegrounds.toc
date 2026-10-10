@@ -1,0 +1,14 @@
+## Interface: 30300
+## Title: EPGP - |cFF80C0FFBattlegrounds|r
+## Notes: Snapshots the final battleground scoreboard and hands out EP to the guild members who were there.
+## Author: EPGP Battlegrounds
+## Version: 1.1.0
+## X-Category: Guild
+## Dependencies: EPGP
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: EPGPBattlegroundsDB
+
+bg_core.lua
+bg_ui.lua
+bg_options.lua

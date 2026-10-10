@@ -1,0 +1,38 @@
+------------------------------------------------------------------------
+r130 | mackatack | 2010-01-03 21:12:32 +0000 (Sun, 03 Jan 2010) | 1 line
+Changed paths:
+   A /tags/0.4.7 (from /trunk:129)
+
+see previous commit
+------------------------------------------------------------------------
+r129 | mackatack | 2010-01-03 21:12:03 +0000 (Sun, 03 Jan 2010) | 1 line
+Changed paths:
+   M /trunk/ml/lootmaster_ml_ui.lua
+
+Added auto detection of new instances to the raidinfo checker
+------------------------------------------------------------------------
+r127 | mackatack | 2009-12-14 17:22:58 +0000 (Mon, 14 Dec 2009) | 2 lines
+Changed paths:
+   M /trunk/lootmaster_player.lua
+
+Updated TOC
+Whisper system now also checking for messages in the raid channel.
+------------------------------------------------------------------------
+r126 | mackatack | 2009-12-14 17:22:26 +0000 (Mon, 14 Dec 2009) | 2 lines
+Changed paths:
+   M /trunk/ml/lootmaster_ml.lua
+   M /trunk/ml/lootmaster_ml_ui.lua
+
+Updated TOC
+Whisper system now also checking for messages in the raid channel.
+------------------------------------------------------------------------
+r125 | mackatack | 2009-12-14 17:16:39 +0000 (Mon, 14 Dec 2009) | 2 lines
+Changed paths:
+   M /trunk/epgp_lootmaster.toc
+   M /trunk/lootmaster_core.lua
+   M /trunk/ml/epgp_lootmaster_ml.toc
+   M /trunk/ml/lootmaster_ml.lua
+
+Updated TOC
+Whisper system now also checking for messages in the raid channel.
+------------------------------------------------------------------------

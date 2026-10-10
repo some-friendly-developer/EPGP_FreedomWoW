@@ -1,0 +1,15 @@
+## Interface: 30300
+## Title: EPGP LootMaster - |cFF80FF80Stand-In|r
+## Notes: Lets the raid leader map a raider onto another character's EP/GP for a raid.
+## Author: EPGP Stand-In
+## Version: 1.0.0
+## X-Category: Guild
+## Dependencies: epgp_lootmaster
+## OptionalDeps: EPGP, epgp_lootmaster_ml
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: EPGPStandInDB
+
+standin_core.lua
+standin_ui.lua
+standin_options.lua
